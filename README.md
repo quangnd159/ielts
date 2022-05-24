@@ -1,4 +1,4 @@
-# Quartz
+# aieo
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
 
