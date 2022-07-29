@@ -1,21 +1,7 @@
 ---
-title: 🌱 aieo
+title: 🌱 IELTS Notes
 ---
 
-## Xin chào! 👋
+## Welcome! 👋
 
-`/ai-eo/` là một cuốn sách tương tác miễn phí cho những ai đang luyện thi IELTS. Cam kết nội dung chất lượng, nói không với bulls\*\*t.
-
-## Nội dung
-
-### 🎧 Listening
-
-### 📖 Reading
-
-### ✍️ Writing
-
-Task 1
-
-Task 2
-
-### 🗣 Speaking
+This is where I share my notes on IELTS when I have some time to spare. No bulls\*\*t, I promise.
