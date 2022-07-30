@@ -8,7 +8,7 @@ enableCodeBlockCopy: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
+enableRecentNotes: true
 enableGitHubEdit: true
 GitHubLink: https://github.com/quangnd159/ielts/tree/hugo/content
 description: Some notes on IELTS that you may find useful
