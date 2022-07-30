@@ -1,5 +1,5 @@
 ---
-title: 🌱 IELTS Notes
+title: 🔖 IELTS
 ---
 
 ## Welcome! 👋
