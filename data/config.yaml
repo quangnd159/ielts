@@ -9,7 +9,7 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: false
+enableGitHubEdit: true
 # GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 description: Some notes on IELTS that you may find useful
 page_title: "🥑 IELTS"
