@@ -1,3 +1,3 @@
 ---
-title: Reading Notes 📖
+title: Listening Notes 🎧
 ---
