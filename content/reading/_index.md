@@ -1,3 +1,3 @@
 ---
-title: Writing Notes ✍️
+title: Reading Notes 📖
 ---
