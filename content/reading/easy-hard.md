@@ -7,7 +7,7 @@ date: 2022-07-31
 
 Taking the test isn't hard. The hard part is [[general/process|practice]]. The hard part is building the [reading habit](https://dangquang.xyz/t/kindle/). The hard part is having the discipline necessary to **immerse** yourself in the language every day.
 
-If you're still looking for "the secret", the truth is that you're only trying to delay the work.
+If you're still looking for "the secret", the truth is that you're only trying to [[general/hiding|delay the work]].
 
 > [!summary] Vocabulary Highlight
 >
