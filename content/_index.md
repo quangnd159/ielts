@@ -10,6 +10,6 @@ Many of these notes will be very short, and I don't intend to write long tutoria
 
 [Listening](listening) | [Reading](reading) | [Writing](writing) | [Speaking](speaking)
 
-I used to write some Vietnamese content on ai-eo.com, but I can no longer maintain it. Everything will be moved over here eventually. You can still access the [speaking challenges](https://ai-eo.com/challenges/ielts/) though.
+I used to write some Vietnamese content on ai-eo.com, but I can no longer maintain it. Everything will be moved over here eventually.
 
 For tips and guides, you can visit [That IELTS Guide](https://thatieltsguide.com).
