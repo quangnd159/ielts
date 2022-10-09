@@ -17,7 +17,5 @@ operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description: Quang's IELTS Notes
 page_title: "🥑 IELTS"
 links:
-  - link_name: Home
-    link: https://ielts.dangquang.xyz
   - link_name: dangquang.xyz
     link: https://dangquang.xyz
