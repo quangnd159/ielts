@@ -1,5 +1,5 @@
 name: Nguyễn Đăng Quang
-enableToc: true
+enableToc: false
 openToc: false
 enableLinkPreview: true
 enableLatex: true
@@ -11,11 +11,13 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: true
 enableGitHubEdit: true
-GitHubLink: https://github.com/quangnd159/ielts/tree/hugo/content
-description: Some notes on IELTS that you may find useful
+GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+enableSemanticSearch: false
+operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+description: Quang's IELTS Notes
 page_title: "🥑 IELTS"
 links:
+  - link_name: Home
+    link: https://ielts.dangquang.xyz
   - link_name: dangquang.xyz
     link: https://dangquang.xyz
-  # - link_name: Github
-  #   link: https://github.com/jackyzha0
