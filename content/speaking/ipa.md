@@ -11,9 +11,7 @@ If you can read the symbols above, you can now teach yourself to pronounce thing
 
 You may need a person with good pronciation to help you at the start, but YouTube can certainly help too: try searching with `learn english ipa` (note that there are some differences between American English and British English).
 
-Learning the IPA is definitely a worthwhile undertaking.
-
-P.S. Later, when you learn another foreign language, you'll find it easier to learn its pronunciation because you can make sound comparisons. For example, `dz` in English is pretty close to `z` in [Chinese](https://youtu.be/Pmk6Dp08udw?t=108).
+Learning the IPA is definitely a worthwhile undertaking. It will better equip you for [[shadowing]]. And later, when you learn another foreign language, you'll find it easier to learn its pronunciation because you can make sound comparisons. For example, `dz` in English is pretty close to `z` in [Chinese](https://youtu.be/Pmk6Dp08udw?t=108).
 
 > [!summary] Vocabulary Highlight
 >

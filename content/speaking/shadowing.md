@@ -11,6 +11,8 @@ Just kidding. Everyone knows. The secret is "shadowing": (1) find a speaker whos
 
 Some people may argue that you must be very passionate about the language in order to make so much effort. It's true, but don't use it as an excuse to [[general/hiding|delay the work]], because this is also true: the better you become at something, the more you like it.
 
+💡 Tip: [[ipa.md|Mastering the sounds]] and being able to read the IPA make shadowing much more effective.
+
 > [!summary] Vocabulary Highlight
 >
 > **tremendous** = very great
